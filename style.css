@@ -1,0 +1,31 @@
+body {
+    font-family: Helvetica, Sans-serif;
+}
+
+a {
+    font-size: 36px;
+    margin: auto;
+    text-align: center;
+}
+
+h1 {
+    color: aqua;
+    background-color: lightpink;
+    margin: auto;
+    text-align: center;
+}
+
+li {
+    display: block;
+    padding: 10px;
+    border-style: dotted;
+    border-color: red;
+    margin: 0 auto;
+    margin-bottom: 8px;
+    text-align: center;
+}
+
+img {
+    width: 100%;
+    max-width: max-content;
+}
